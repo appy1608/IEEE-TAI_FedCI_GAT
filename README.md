@@ -16,7 +16,7 @@ For sentiment label annotation, we utilized a pseudo-labeling approach by genera
 
 **Software**
 
-The resource file consists of the proposed FedComb model and implementation files for other baseline models in both IID and NIID settings.
+The resource file consists of the proposed FedComb model and other baseline models implementation codes in both IID and NIID settings.
 
 
 **Cite**
