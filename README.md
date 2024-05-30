@@ -1,6 +1,6 @@
 # IEEE-TAI_FedCI_GAT
 
-**Federated Multi-task Learning for Complaint Identification using Graph Attention Network**
+**[Federated Multi-task Learning for Complaint Identification using Graph Attention Network](https://ieeexplore.ieee.org/abstract/document/10149482)**
 
 Automatic complaint identification is crucial to organizations as they provide insights to meet the customers' requirements, including handling and addressing the complaints. Unlike standard technologies developed using data stored in the cloud, a federated learning model allows businesses to learn complaint detection models without sharing their training data spread on their local databases with third-party cloud services. In this work, we propose a GAT-based sentiment-aided complaint identification in federated learning settings. The proposed FedComb algorithm integrates local and global model optimization, making it efficient compared to existing federated algorithms. 
 
